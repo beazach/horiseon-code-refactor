@@ -35,5 +35,5 @@ MIT
 - https://www.w3schools.com/html/html5_semantic_elements.asp (accessed 12 December 2022)
 - https://fantastic-pudding.vercel.app/01-html-git-github-module/activities/day-04/challenge/ (accessed 12 December 2022)
 - https://www.w3schools.com/tags/att_img_alt.asp (accessed 12 December 2022)
-- https://stackoverflow.com/questions/6939864/what-is-the-difference-between-section-and-div (accessed 11 December 2021)
+- https://stackoverflow.com/questions/6939864/what-is-the-difference-between-section-and-div (accessed 11 December 2022)
 
